@@ -1,7 +1,3 @@
-![Format](../../actions/workflows/format.yml/badge.svg)
-![Header](../../actions/workflows/header.yml/badge.svg)
-![Lint](../../actions/workflows/lint.yml/badge.svg)
-
 # Pong!
 
 In this exercise, we shall write a [Pong](https://en.wikipedia.org/wiki/Pong) style game. Pong was first released in 1972 and it was one of the first arcade video games. Pong is a table tennis (ping pong) themed video game.
